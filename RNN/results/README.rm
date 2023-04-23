@@ -1,0 +1,10 @@
+default path from training class
+
+    full labels:
+        {model}_wyniki_
+
+    10 known labels:
+        {model}_wyniki_only_known
+
+    known/unknown:
+        {model}_unknown_wyniki_
